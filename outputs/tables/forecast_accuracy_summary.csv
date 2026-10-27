@@ -1,0 +1,9 @@
+method,val_wape,test_wape,test_mae,test_rmse,test_bias
+Seasonal SES (weekday+annual),0.3701,0.3536,19.9149,26.7121,0.0111
+Croston-SBA,0.4003,0.382,22.7821,30.263,-0.0881
+Exp. Smoothing (SES),0.4003,0.3824,22.9006,30.0403,-0.0536
+Moving Avg (28d),0.4036,0.3834,22.8115,29.9807,-0.0444
+Holt (damped trend),0.4021,0.3895,23.5358,30.367,-0.0112
+Moving Avg (7d),0.4225,0.4021,23.7604,30.7995,-0.0191
+Seasonal Naive,0.494,0.4733,27.8205,37.0385,-0.0184
+Auto-select per SKU,0.3666,0.3537,19.9606,26.7429,0.0062

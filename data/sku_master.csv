@@ -1,0 +1,61 @@
+sku_id,sku_name,category,unit_cost,unit_price,ordering_cost,holding_cost_rate,supplier_lead_time_days
+SKU001,OPC 53 Grade Cement 50kg,Cement & Mortar,385.0,442.77,1559,0.22,2.9
+SKU002,PPC Cement 50kg,Cement & Mortar,365.0,415.59,1461,0.22,2.7
+SKU003,Premium PPC Cement 50kg,Cement & Mortar,410.0,468.03,1369,0.22,2.8
+SKU004,White Cement 5kg,Cement & Mortar,165.0,189.92,1584,0.22,3.4
+SKU005,Tile Adhesive 20kg,Cement & Mortar,540.0,619.3,1640,0.22,3.2
+SKU006,Block Jointing Mortar 25kg,Cement & Mortar,310.0,353.19,1418,0.22,2.7
+SKU007,TMT Fe500D 8mm 12m bar,Steel & Rebar,365.0,411.71,3183,0.15,5.7
+SKU008,TMT Fe500D 10mm 12m bar,Steel & Rebar,570.0,631.66,3172,0.15,5.5
+SKU009,TMT Fe500D 12mm 12m bar,Steel & Rebar,820.0,911.31,2769,0.15,6.1
+SKU010,TMT Fe500D 16mm 12m bar,Steel & Rebar,1460.0,1637.08,3036,0.15,6.2
+SKU011,TMT Fe500D 20mm 12m bar,Steel & Rebar,2280.0,2572.94,2840,0.15,5.8
+SKU012,Binding Wire 1kg coil,Steel & Rebar,78.0,87.89,3099,0.15,6.1
+SKU013,MS Angle 40x40mm 6m,Steel & Rebar,1180.0,1327.9,2977,0.15,5.3
+SKU014,Welded Steel Mesh Sheet,Steel & Rebar,2650.0,2960.43,2881,0.15,5.9
+SKU015,Red Clay Brick,Bricks & Blocks,8.0,9.73,2080,0.18,4.6
+SKU016,Fly Ash Brick,Bricks & Blocks,6.0,7.15,1839,0.18,3.9
+SKU017,AAC Block 600x200x100mm,Bricks & Blocks,58.0,68.85,2143,0.18,4.1
+SKU018,AAC Block 600x200x200mm,Bricks & Blocks,104.0,125.42,1834,0.18,4.1
+SKU019,Concrete Hollow Block 8in,Bricks & Blocks,42.0,49.73,2035,0.18,3.6
+SKU020,Interlocking Paver Block,Bricks & Blocks,34.0,40.15,2183,0.18,4.1
+SKU021,M-Sand per tonne,Aggregates,1150.0,1425.15,1826,0.14,2.0
+SKU022,20mm Aggregate per tonne,Aggregates,980.0,1174.97,1917,0.14,2.0
+SKU023,40mm Aggregate per tonne,Aggregates,940.0,1137.75,1857,0.14,2.1
+SKU024,GSB Mix per tonne,Aggregates,720.0,863.75,1820,0.14,1.8
+SKU025,Ready-Mix Concrete M25 per m3,Aggregates,5600.0,6780.48,1805,0.14,2.3
+SKU026,Vitrified Tile 600x600 box,Tiles & Flooring,820.0,1045.19,2372,0.2,8.8
+SKU027,Vitrified Tile 800x800 box,Tiles & Flooring,1650.0,2084.94,2271,0.2,8.5
+SKU028,Ceramic Wall Tile 300x450 box,Tiles & Flooring,610.0,754.6,2034,0.2,10.2
+SKU029,Anti-Skid Floor Tile 300x300 box,Tiles & Flooring,540.0,666.8,2117,0.2,10.0
+SKU030,Granite Slab per sqft,Tiles & Flooring,165.0,204.02,2038,0.2,7.7
+SKU031,Marble Slab per sqft,Tiles & Flooring,240.0,296.4,2334,0.2,9.2
+SKU032,Tile Spacers Pack,Tiles & Flooring,45.0,56.02,2112,0.2,10.2
+SKU033,CPVC Pipe 1in 3m,Plumbing,440.0,535.57,1213,0.22,7.9
+SKU034,UPVC Pipe 4in 3m,Plumbing,760.0,945.9,1304,0.22,8.0
+SKU035,PVC Elbow 4in,Plumbing,58.0,72.84,1271,0.22,6.2
+SKU036,Brass Ball Valve 1in,Plumbing,390.0,481.96,1170,0.22,7.2
+SKU037,Overhead Water Tank 1000L,Plumbing,6900.0,8468.78,1259,0.22,6.5
+SKU038,CP Basin Faucet,Plumbing,720.0,904.02,1154,0.22,6.3
+SKU039,Concealed Flush Tank,Plumbing,3100.0,3786.78,1085,0.22,6.3
+SKU040,GI Fitting Set,Plumbing,260.0,321.07,1156,0.22,7.4
+SKU041,FR Wire 1.5 sqmm 90m,Electrical,1450.0,1752.2,950,0.22,7.2
+SKU042,FR Wire 2.5 sqmm 90m,Electrical,2350.0,2825.81,1067,0.22,8.1
+SKU043,FR Wire 4 sqmm 90m,Electrical,3650.0,4530.02,1060,0.22,9.0
+SKU044,MCB 32A Single Pole,Electrical,290.0,353.98,1072,0.22,8.1
+SKU045,Modular Switch 6A,Electrical,72.0,87.77,983,0.22,7.1
+SKU046,LED Panel Light 18W,Electrical,540.0,663.21,959,0.22,7.7
+SKU047,PVC Conduit Pipe 25mm 3m,Electrical,68.0,84.0,1031,0.22,8.1
+SKU048,Distribution Board 8-Way,Electrical,2100.0,2534.5,1039,0.22,8.6
+SKU049,Exterior Emulsion 20L,Paints & Waterproofing,5200.0,6782.95,1020,0.25,5.3
+SKU050,Interior Emulsion 20L,Paints & Waterproofing,4300.0,5611.4,1046,0.25,6.5
+SKU051,Wall Primer 20L,Paints & Waterproofing,2350.0,3017.53,1093,0.25,6.1
+SKU052,Wall Putty 40kg,Paints & Waterproofing,1180.0,1538.9,1016,0.25,6.2
+SKU053,Synthetic Enamel 1L,Paints & Waterproofing,430.0,554.52,1063,0.25,6.5
+SKU054,Waterproofing Compound 20L,Paints & Waterproofing,3900.0,4917.22,1023,0.25,5.7
+SKU055,PU Sealant Cartridge,Paints & Waterproofing,310.0,404.37,1162,0.25,6.1
+SKU056,Anchor Bolt Pack,Hardware & Fasteners,190.0,235.63,749,0.2,11.4
+SKU057,Wood Screw Box 100pc,Hardware & Fasteners,150.0,188.64,746,0.2,8.5
+SKU058,Door Lock Set,Hardware & Fasteners,1350.0,1720.75,645,0.2,11.3
+SKU059,Nails 1kg,Hardware & Fasteners,92.0,118.31,723,0.2,8.8
+SKU060,Door Hinge Pair,Hardware & Fasteners,120.0,148.97,739,0.2,9.2

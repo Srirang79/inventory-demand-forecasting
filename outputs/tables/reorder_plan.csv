@@ -1,0 +1,61 @@
+sku_id,sku_name,category,abc_class,method,forecast_daily_demand,lead_time_mean_days,lead_time_sd_days,service_level,lead_time_demand,safety_stock,reorder_point,eoq,on_hand,on_order,inventory_position,days_of_cover,stockout_risk,reorder_now,suggested_order_qty,risk_band
+SKU047,PVC Conduit Pipe 25mm 3m,Electrical,C,Holt (damped trend),130.393,9.244,2.63,0.9,1187.685,530.442,1718.127,2561.248,539.0,0.0,539.0,4.134,0.941,True,2562.0,High
+SKU014,Welded Steel Mesh Sheet,Steel & Rebar,C,Seasonal SES (weekday+annual),2.855,6.378,1.466,0.9,18.209,9.53,27.739,122.906,11.0,0.0,11.0,3.853,0.834,True,123.0,High
+SKU056,Anchor Bolt Pack,Hardware & Fasteners,C,Seasonal SES (weekday+annual),38.365,11.348,3.957,0.9,427.261,200.575,627.835,742.981,382.0,0.0,382.0,9.957,0.614,True,743.0,High
+SKU031,Marble Slab per sqft,Tiles & Flooring,C,Seasonal SES (weekday+annual),3.838,9.792,2.25,0.9,37.784,25.894,63.677,369.078,40.0,0.0,40.0,10.423,0.456,True,370.0,High
+SKU054,Waterproofing Compound 20L,Paints & Waterproofing,A,Seasonal SES (weekday+annual),17.76,5.872,1.813,0.98,102.188,72.82,175.008,116.632,109.0,0.0,109.0,6.137,0.424,True,117.0,High
+SKU019,Concrete Hollow Block 8in,Bricks & Blocks,C,Seasonal SES (weekday+annual),92.007,4.256,1.311,0.9,373.747,176.838,550.584,4252.001,489.0,0.0,489.0,5.315,0.202,True,4253.0,Medium
+SKU032,Tile Spacers Pack,Tiles & Flooring,C,Seasonal SES (weekday+annual),82.913,10.659,4.754,0.9,860.382,520.734,1381.116,3768.75,1344.0,0.0,1344.0,16.21,0.117,True,3769.0,Medium
+SKU058,Door Lock Set,Hardware & Fasteners,C,Seasonal SES (weekday+annual),1.043,10.957,2.974,0.9,11.566,7.301,18.867,42.655,19.0,0.0,19.0,18.211,0.096,False,0.0,Low
+SKU009,TMT Fe500D 12mm 12m bar,Steel & Rebar,A,Seasonal SES (weekday+annual),101.022,6.435,2.228,0.98,650.056,489.615,1139.672,1288.483,1006.0,0.0,1006.0,9.958,0.068,True,1289.0,Low
+SKU007,TMT Fe500D 8mm 12m bar,Steel & Rebar,B,Seasonal SES (weekday+annual),137.341,6.133,2.117,0.95,842.355,593.634,1435.989,2414.277,1407.0,0.0,1407.0,10.245,0.059,True,2415.0,Low
+SKU059,Nails 1kg,Hardware & Fasteners,C,Seasonal SES (weekday+annual),149.854,10.244,3.426,0.9,1492.837,687.393,2180.23,2073.269,2550.0,0.0,2550.0,17.017,0.024,False,0.0,Low
+SKU060,Door Hinge Pair,Hardware & Fasteners,C,Seasonal SES (weekday+annual),14.245,10.089,2.945,0.9,140.213,61.987,202.199,565.854,32.0,204.0,236.0,2.246,0.024,False,0.0,Low
+SKU048,Distribution Board 8-Way,Electrical,C,Croston-SBA,1.485,8.957,2.097,0.9,13.298,8.647,21.945,49.37,27.0,0.0,27.0,18.186,0.021,False,0.0,Low
+SKU030,Granite Slab per sqft,Tiles & Flooring,C,Croston-SBA,1.583,8.116,2.073,0.9,12.849,9.325,22.173,267.151,29.0,0.0,29.0,18.319,0.013,False,0.0,Low
+SKU039,Concealed Flush Tank,Plumbing,C,Holt (damped trend),2.652,6.674,1.564,0.9,17.032,10.691,27.723,55.5,37.0,0.0,37.0,13.95,0.008,False,0.0,Low
+SKU021,M-Sand per tonne,Aggregates,A,Seasonal SES (weekday+annual),129.316,2.167,0.824,0.98,297.309,271.726,569.036,1034.723,652.0,0.0,652.0,5.042,0.004,False,0.0,Low
+SKU018,AAC Block 600x200x200mm,Bricks & Blocks,C,Seasonal SES (weekday+annual),169.239,4.533,1.59,0.9,749.571,376.732,1126.303,3479.037,1557.0,0.0,1557.0,9.2,0.003,False,0.0,Low
+SKU033,CPVC Pipe 1in 3m,Plumbing,C,Seasonal SES (weekday+annual),25.957,8.068,1.897,0.9,210.939,74.352,285.292,487.285,394.0,0.0,394.0,15.179,0.001,False,0.0,Low
+SKU008,TMT Fe500D 10mm 12m bar,Steel & Rebar,B,Seasonal SES (weekday+annual),82.857,6.114,2.071,0.95,506.559,333.278,839.837,1497.994,1207.0,0.0,1207.0,14.567,0.0,False,0.0,Low
+SKU036,Brass Ball Valve 1in,Plumbing,B,Seasonal SES (weekday+annual),51.78,6.714,2.482,0.95,347.664,245.173,592.837,717.944,946.0,0.0,946.0,18.27,0.0,False,0.0,Low
+SKU042,FR Wire 2.5 sqmm 90m,Electrical,A,Seasonal SES (weekday+annual),101.813,8.854,2.063,0.98,905.527,477.369,1382.896,391.652,1848.0,0.0,1848.0,18.151,0.0,False,0.0,Low
+SKU037,Overhead Water Tank 1000L,Plumbing,B,Seasonal SES (weekday+annual),2.468,7.045,1.817,0.95,17.584,10.605,28.189,38.657,44.0,0.0,44.0,17.827,0.0,False,0.0,Low
+SKU024,GSB Mix per tonne,Aggregates,A,Seasonal SES (weekday+annual),104.335,2.14,0.774,0.98,234.72,202.673,437.392,1172.686,659.0,0.0,659.0,6.316,0.0,False,0.0,Low
+SKU055,PU Sealant Cartridge,Paints & Waterproofing,C,Seasonal SES (weekday+annual),26.267,6.159,3.003,0.9,161.778,106.962,268.74,536.185,119.0,425.0,544.0,4.53,0.0,False,0.0,Low
+SKU027,Vitrified Tile 800x800 box,Tiles & Flooring,A,Seasonal SES (weekday+annual),38.297,8.152,2.757,0.98,315.918,236.203,552.121,438.628,264.0,579.0,843.0,6.893,0.0,False,0.0,Low
+SKU020,Interlocking Paver Block,Bricks & Blocks,C,Seasonal SES (weekday+annual),89.27,4.489,0.997,0.9,386.237,147.856,534.093,4821.324,944.0,0.0,944.0,10.575,0.0,False,0.0,Low
+SKU013,MS Angle 40x40mm 6m,Steel & Rebar,C,Seasonal SES (weekday+annual),0.703,5.682,1.308,0.9,3.985,3.024,7.009,92.917,16.0,0.0,16.0,22.754,0.0,False,0.0,Low
+SKU028,Ceramic Wall Tile 300x450 box,Tiles & Flooring,B,Seasonal SES (weekday+annual),27.881,10.556,2.417,0.95,288.057,132.695,420.753,582.52,706.0,0.0,706.0,25.322,0.0,False,0.0,Low
+SKU001,OPC 53 Grade Cement 50kg,Cement & Mortar,B,Seasonal SES (weekday+annual),113.044,3.267,1.116,0.95,343.797,264.682,608.479,1232.445,1259.0,0.0,1259.0,11.137,0.0,False,0.0,Low
+SKU046,LED Panel Light 18W,Electrical,B,Seasonal SES (weekday+annual),27.495,7.936,2.181,0.95,221.184,139.804,360.988,402.524,235.0,527.0,762.0,8.547,0.0,False,0.0,Low
+SKU029,Anti-Skid Floor Tile 300x300 box,Tiles & Flooring,B,Seasonal SES (weekday+annual),41.081,9.977,3.508,0.95,412.455,251.363,663.818,766.706,819.0,569.0,1388.0,19.936,0.0,False,0.0,Low
+SKU034,UPVC Pipe 4in 3m,Plumbing,B,Seasonal SES (weekday+annual),26.763,8.067,2.895,0.95,216.466,132.073,348.538,390.348,769.0,0.0,769.0,28.733,0.0,False,0.0,Low
+SKU043,FR Wire 4 sqmm 90m,Electrical,A,Seasonal SES (weekday+annual),45.001,9.326,2.989,0.98,428.214,314.96,743.174,208.241,1003.0,679.0,1682.0,22.289,0.0,False,0.0,Low
+SKU011,TMT Fe500D 20mm 12m bar,Steel & Rebar,B,Seasonal SES (weekday+annual),18.147,5.87,1.376,0.95,104.61,51.993,156.603,331.674,365.0,0.0,365.0,20.113,0.0,False,0.0,Low
+SKU002,PPC Cement 50kg,Cement & Mortar,A,Seasonal SES (weekday+annual),178.354,2.75,1.059,0.98,499.099,430.48,929.58,1539.11,5623.0,0.0,5623.0,31.527,0.0,False,0.0,Low
+SKU010,TMT Fe500D 16mm 12m bar,Steel & Rebar,A,Seasonal SES (weekday+annual),41.561,5.977,1.64,0.98,245.294,157.66,402.954,648.532,1500.0,0.0,1500.0,36.092,0.0,False,0.0,Low
+SKU022,20mm Aggregate per tonne,Aggregates,A,Seasonal SES (weekday+annual),180.317,2.311,0.733,0.98,435.931,329.585,765.516,1356.169,6806.0,2817.0,9623.0,37.745,0.0,False,0.0,Low
+SKU041,FR Wire 1.5 sqmm 90m,Electrical,A,Seasonal SES (weekday+annual),75.759,7.478,1.588,0.98,572.345,292.349,864.695,405.832,2117.0,1300.0,3417.0,27.944,0.0,False,0.0,Low
+SKU049,Exterior Emulsion 20L,Paints & Waterproofing,A,Seasonal SES (weekday+annual),18.559,5.674,1.7,0.98,103.319,85.2,188.52,103.102,484.0,0.0,484.0,26.079,0.0,False,0.0,Low
+SKU050,Interior Emulsion 20L,Paints & Waterproofing,A,Seasonal SES (weekday+annual),22.39,6.939,2.358,0.98,155.359,117.528,272.886,126.11,752.0,0.0,752.0,33.587,0.0,False,0.0,Low
+SKU052,Wall Putty 40kg,Paints & Waterproofing,A,Seasonal SES (weekday+annual),52.266,6.5,1.664,0.98,339.729,202.856,542.585,362.499,1606.0,0.0,1606.0,30.727,0.0,False,0.0,Low
+SKU017,AAC Block 600x200x100mm,Bricks & Blocks,B,Seasonal SES (weekday+annual),430.902,4.455,1.372,0.95,1852.992,1177.737,3030.729,8035.472,11164.0,6429.0,17593.0,25.908,0.0,False,0.0,Low
+SKU023,40mm Aggregate per tonne,Aggregates,B,Seasonal SES (weekday+annual),33.556,2.386,0.754,0.95,84.162,55.975,140.137,587.926,446.0,567.0,1013.0,13.291,0.0,False,0.0,Low
+SKU038,CP Basin Faucet,Plumbing,B,Seasonal SES (weekday+annual),32.412,6.867,1.531,0.95,222.565,108.484,331.05,415.186,1223.0,0.0,1223.0,37.732,0.0,False,0.0,Low
+SKU051,Wall Primer 20L,Paints & Waterproofing,B,Seasonal SES (weekday+annual),9.63,6.787,2.166,0.95,65.361,38.026,103.387,114.362,428.0,0.0,428.0,44.444,0.0,False,0.0,Low
+SKU003,Premium PPC Cement 50kg,Cement & Mortar,C,Seasonal SES (weekday+annual),34.523,2.872,1.115,0.9,105.483,58.784,164.267,618.46,182.0,531.0,713.0,5.272,0.0,False,0.0,Low
+SKU004,White Cement 5kg,Cement & Mortar,C,Seasonal SES (weekday+annual),24.162,3.705,0.795,0.9,84.282,32.151,116.433,877.307,709.0,0.0,709.0,29.344,0.0,False,0.0,Low
+SKU005,Tile Adhesive 20kg,Cement & Mortar,C,Seasonal SES (weekday+annual),15.207,3.511,1.079,0.9,49.144,27.349,76.494,391.467,455.0,0.0,455.0,29.921,0.0,False,0.0,Low
+SKU006,Block Jointing Mortar 25kg,Cement & Mortar,C,Seasonal SES (weekday+annual),18.844,3.091,1.158,0.9,53.419,32.391,85.811,534.797,681.0,0.0,681.0,36.14,0.0,False,0.0,Low
+SKU012,Binding Wire 1kg coil,Steel & Rebar,C,Seasonal SES (weekday+annual),34.919,6.217,1.209,0.9,217.107,78.06,295.167,2598.437,676.0,523.0,1199.0,19.359,0.0,False,0.0,Low
+SKU015,Red Clay Brick,Bricks & Blocks,C,Seasonal SES (weekday+annual),284.817,5.182,1.795,0.9,1475.015,691.664,2166.678,17329.839,9824.0,3932.0,13756.0,34.492,0.0,False,0.0,Low
+SKU016,Fly Ash Brick,Bricks & Blocks,C,Seasonal SES (weekday+annual),538.83,4.174,0.95,0.9,2185.73,817.445,3003.175,25880.125,17686.0,0.0,17686.0,32.823,0.0,False,0.0,Low
+SKU025,Ready-Mix Concrete M25 per m3,Aggregates,C,Croston-SBA,1.698,2.523,0.762,0.9,4.284,3.873,8.157,53.424,33.0,25.0,58.0,19.433,0.0,False,0.0,Low
+SKU026,Vitrified Tile 600x600 box,Tiles & Flooring,C,Seasonal SES (weekday+annual),17.684,9.533,3.307,0.9,172.593,79.701,252.294,432.099,731.0,0.0,731.0,41.338,0.0,False,0.0,Low
+SKU035,PVC Elbow 4in,Plumbing,C,Seasonal SES (weekday+annual),41.309,6.111,2.228,0.9,252.445,125.883,378.328,1733.135,1401.0,0.0,1401.0,33.915,0.0,False,0.0,Low
+SKU040,GI Fitting Set,Plumbing,C,Seasonal SES (weekday+annual),36.676,7.977,2.849,0.9,296.093,162.776,458.869,735.589,1075.0,567.0,1642.0,29.31,0.0,False,0.0,Low
+SKU044,MCB 32A Single Pole,Electrical,C,Seasonal SES (weekday+annual),11.144,8.867,2.519,0.9,100.69,43.323,144.013,369.72,410.0,0.0,410.0,36.79,0.0,False,0.0,Low
+SKU045,Modular Switch 6A,Electrical,C,Seasonal SES (weekday+annual),97.663,7.622,1.862,0.9,755.36,321.992,1077.351,2103.416,2127.0,1756.0,3883.0,21.779,0.0,False,0.0,Low
+SKU053,Synthetic Enamel 1L,Paints & Waterproofing,C,Seasonal SES (weekday+annual),17.291,6.886,1.66,0.9,119.071,46.037,165.108,353.29,679.0,0.0,679.0,39.269,0.0,False,0.0,Low
+SKU057,Wood Screw Box 100pc,Hardware & Fasteners,C,Seasonal SES (weekday+annual),28.856,9.0,2.362,0.9,260.352,92.44,352.792,723.753,446.0,422.0,868.0,15.456,0.0,False,0.0,Low

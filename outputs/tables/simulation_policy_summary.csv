@@ -1,0 +1,4 @@
+policy,fill_rate,avg_stockout_days_per_sku,avg_inventory_value_inr,orders_per_sku,holding_cost_inr,ordering_cost_inr,stockout_cost_inr,total_cost_inr
+A. Naive (no safety stock),0.974,3.5239,34303641.1531,3.1217,1710200.7428,306362.6667,1150189.5841,3166752.9936
+B. Statistical safety stock,0.9955,0.7056,20885420.6969,6.5406,1028931.4781,576728.7333,218699.1849,1824359.3963
+C. Forecast-driven (this project),0.9967,0.4744,21890490.6732,6.4256,1082635.1976,566644.0667,120294.6596,1769573.9238
